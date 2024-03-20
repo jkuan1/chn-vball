@@ -1,4 +1,4 @@
-# program-registration
+# Program Registration
 
 This project is intended to help register for Volleyball programs at Collingwood Neighbourhood House.
 
